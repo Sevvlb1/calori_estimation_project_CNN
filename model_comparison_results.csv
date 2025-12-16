@@ -1,0 +1,4 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),F1-Score (Macro),ROC-AUC (OVR)
+CNN (MobileNetV2),0.9116,0.9171,0.9272,0.9214,0.9955
+Random Forest (VGG16),0.8089,0.8549,0.8074,0.8215,0.9805
+SVM (VGG16),0.605,0.8412,0.586,0.6377,0.9619
